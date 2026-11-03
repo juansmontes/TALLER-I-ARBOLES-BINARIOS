@@ -71,12 +71,7 @@ El recorrido **inorden** (izquierda, raíz, derecha) debe mostrar las claves ord
 
 ## Integrantes y responsabilidades
 
-Completar antes de entregar:
-
-- Integrante 1: nombre y responsabilidad.
-- Integrante 2: nombre y responsabilidad (si aplica).
-- Integrante 3: nombre y responsabilidad (si aplica).
-
+Juan Sebastián Montes Marín: Desarrollo integral del proyecto. Diseño e implementación de la estructura de datos Árbol Binario de Búsqueda (BST), arquitectura MVC, operaciones CRUD, recorridos, pruebas y documentación.
 ## Nota sobre la altura
 
-La altura se mide por niveles: árbol vacío = 0 y árbol con solo la raíz = 1.
+La altura del árbol se mide por niveles. Un árbol vacío tiene altura 0, mientras que un árbol que contiene únicamente la raíz tiene altura 1. La altura corresponde al número máximo de niveles desde la raíz hasta la hoja más profunda.
